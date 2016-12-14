@@ -10,7 +10,7 @@ message.info('This is a normal message');
 
 export const HomeView = () => (
     <div>
-        <h4>Welcome!</h4>
+        <h4>Welcome123!</h4>
         <DatePicker />
         <div>
             <Button type="primary">Primary</Button>
